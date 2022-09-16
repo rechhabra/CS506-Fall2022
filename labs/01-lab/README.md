@@ -1,3 +1,10 @@
+# CONTRIBUTORS TO THIS LAB:
+## Reshab Chhabra
+## Ying Han Dai
+## Yiwei Zha
+## Shuo Zhang
+
+
 # A collaborative exercise to learn Python and Git
 
 ## Objective
